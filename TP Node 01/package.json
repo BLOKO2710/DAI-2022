@@ -1,0 +1,16 @@
+{
+  "name": "pruebanode",
+  "version": "1.0.0",
+  "description": "Prueba de node en la clase de Polshu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FacuBeloqui y MatiKelman",
+  "license": "ISC",
+  "dependencies": {
+    "iso-country-currency": "^0.6.0"
+  }
+}
